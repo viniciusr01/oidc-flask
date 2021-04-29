@@ -1,0 +1,63 @@
+.App-header {
+  background-color: #ffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black ;
+  
+}
+
+
+
+.logos{
+  max-width: 100px; 
+}
+
+.Logado-header{
+  background-color: rgb(233, 233, 233);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black ;
+}
+
+
+.botao {
+  margin: 0 10px;
+  background-color: #d3873f;
+  font-size: 16px;
+  border-radius: 8px;
+  border-color: #d3873f;
+  width: 100px;
+  height: 40px;
+  color: white;
+  }
+  
+.button-logout {
+  margin-top: 40px;
+  background-color: rgb(228, 66, 66);
+  font-size: 16px;
+  border-radius: 8px;
+  border-color: red;
+  width: 100px;
+  height: 40px;
+  color: white;
+}
+
+.button-login {
+  margin-top: 40px;
+  background-color:#d3873f;
+  font-size: 16px;
+  border-radius: 8px;
+  border-color: #d3873f;
+  width: 80px;
+  height: 30px;
+  color: white;
+  font-weight: 700;
+}
