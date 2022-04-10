@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/viniciusr01/oidc-flask/main/Fluxo%20OpenID%20Connect.png" />
+  <img src="https://github.com/viniciusr01/oidc-flask/blob/master/Fluxo%20OpenID%20Connect.png" />
 </p>
 
 
