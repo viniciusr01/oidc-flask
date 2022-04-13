@@ -125,8 +125,8 @@ client.handle_provider_config(op_info, op_info['issuer'])
 from oic.oic.message import RegistrationResponse
 
 # Client ID e Client Secret são geradas pelo Provedor OpenID (OP - WSO2 IS)
-info = {"client_id": "HRtE9bHFDqTRTVj5YXE84PLB8B4a", 
-        "client_secret": "IIy6Mwf29RrhuHGAAHm14v7Ei00a"
+info = {"client_id": "######", 
+        "client_secret": "########"
         }
 
 
